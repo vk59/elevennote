@@ -1,5 +1,5 @@
 # ElevenNote
-Web application
+Web application (all the commits here: https://github.com/vk59/cs102/tree/master/elevennote)
 
 ## What it can do?
 
